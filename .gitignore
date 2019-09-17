@@ -30,6 +30,8 @@ build/
 ### VS Code ###
 .vscode/
 
+### Gradle ###
+.gradle/
 
 ### certs ###
 *.pem
